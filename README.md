@@ -1,10 +1,9 @@
 
 # [AI+X] 서울 대중교통 EDA 프로젝트
 <div>
-<img width="600" src = "https://love.seoul.go.kr/pds/Board/seoul_news_write/202204_09_1200.jpg"/><div/>
+<img src = "https://data.seoul.go.kr/resources/img/content/img_move-preview.jpg" width = "80%"><div/>
   
-###### img src : 서울특별시, https://love.seoul.go.kr/asp/articleView.asp?intSeq=8758
-  
+
 ## 1. Intro
 >#### 1-1. Topic
 >- 서울시의 추가적인 버스노선 배치가 필요한 구 선정
@@ -25,4 +24,5 @@
 
 ## 2. Preview
 
-<img src = "https://data.seoul.go.kr/resources/img/content/img_move-preview.jpg">
+<img src = "https://github.com/SukoJim/smuAIX-Basic/assets/102002817/1f45314b-4935-4b9c-bf7b-4aeaaada4a81" width = "60%">
+<img src = "https://github.com/SukoJim/smuAIX-Basic/assets/102002817/2972c109-672d-49dd-b961-08938559da77" width = "60%">
