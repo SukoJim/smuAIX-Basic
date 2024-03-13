@@ -1,8 +1,7 @@
 
 # [AI+X] 서울 대중교통 EDA 프로젝트
 <div>
-<img src = "https://data.seoul.go.kr/resources/img/content/img_move-preview.jpg" width = "80%"><div/>
-  
+<img src = "https://github.com/SukoJim/smuAIX-Basic/assets/102002817/d270dbf7-bdfd-44aa-8a5f-bd607aff644b" width = "80%"><div/>
 
 ## 1. Intro
 >#### 1-1. Topic
